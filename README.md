@@ -15,7 +15,7 @@ This repo is organized as follows.
 ```
 .
 ├── README.md
-├── notebooks             # Notebooks and slides
+├── notebooks             # Notebooks and slides //
 └── requirements.txt      # Packages needed for your virtualenv
 ```
 
